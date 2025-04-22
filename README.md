@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Samuel Alvarez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"/></h1>
 
-![](https://komarev.com/ghpvc/?username=samulalvarez&color=3082db&label=👀_Nice_To_Meet_U!_You+are+my+visitor+No.)
+![](https://komarev.com/ghpvc/?username=samulalvarez&color=3082db&label=visitors)
 
 
 <hr>
@@ -11,6 +11,7 @@
 📝 I have a strong interest learning other Programming Languages
 🌱 Learning about Creating Websites and Apps
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>.
+📫 Reach out to me at: <a href="samuel1a.alvarez@gmail.com">samuel1a.alvarez@gmail.com</a>
   
 🌐Languages
 <b>🌐English 🌐Spanish</b>
@@ -18,14 +19,6 @@
 </pre>
 
 <hr>
-
-
-## 🤝 How to Reach me
-<p align="center">
-	<a href="mailto:samuel1a.alvarez@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
-
-
 
 ## My Tools
 
@@ -69,7 +62,19 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=samulalvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samulalvarez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=samulalvarez&theme=material-palenight)](https://github.com/samulalvarez)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/samulalvarez/samulalvarez/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
 
