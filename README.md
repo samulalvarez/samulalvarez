@@ -64,7 +64,7 @@
 
 
 <h2>Github stats:</h2> 
-
+<div>
 [![](https://github-readme-stats.vercel.app/api?username=samulalvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samulalvarez)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=samulalvarez&theme=material-palenight)](https://github.com/samulalvarez)
 </div>
