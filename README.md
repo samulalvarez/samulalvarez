@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I am Samuel Alvarez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"/></h1>
 
-![](https://komarev.com/ghpvc/?username=SamuLalvarezDev&color=3082db&label=visitors)
+![](https://komarev.com/ghpvc/?username=samulalvarez&color=3082db&label=visitors)
 
 
 <hr>
@@ -65,15 +65,15 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=samulalvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/SamuLalvarezDev)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=samulalvarez&theme=material-palenight)](https://github.com/SamuLalvarezDev)
+[![](https://github-readme-stats.vercel.app/api?username=samulalvarez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/samulalvarez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=samulalvarez&theme=material-palenight)](https://github.com/samulalvarez)
 
 ----
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuLalvarezDev/SamuLalvarezDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuLalvarezDev/SamuLalvarezDev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SamuLalvarezDev/SamuLalvarezDev/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake.svg" />
 </picture>
 
 
