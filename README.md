@@ -70,10 +70,11 @@
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/samulalvarez/samulalvarez/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/samulalvarez/samulalvarez/output/github-snake.svg" />
+</picture>
 
 
 
